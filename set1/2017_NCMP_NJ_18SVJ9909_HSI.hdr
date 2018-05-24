@@ -1,0 +1,62 @@
+ENVI
+description = {
+X:\2017_NCMP_EC\products\2017_NCMP_NJ\2017_NCMP_NJ_HSI\Blk_601\2017_NCMP_EC_18SVJ9909_HSI.img}
+samples = 1000
+lines   = 1000
+bands   = 48
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bip
+byte order = 0
+map info = {UTM, 1, 1, 498999.999978342, 4309999.99992802, 1, 1, 18, North,North America 1983}
+coordinate system string = {PROJCS["NAD_1983_UTM_Zone_18N",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-75],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]}
+band names = {
+Band 1,
+Band 2,
+Band 3,
+Band 4,
+Band 5,
+Band 6,
+Band 7,
+Band 8,
+Band 9,
+Band 10,
+Band 11,
+Band 12,
+Band 13,
+Band 14,
+Band 15,
+Band 16,
+Band 17,
+Band 18,
+Band 19,
+Band 20,
+Band 21,
+Band 22,
+Band 23,
+Band 24,
+Band 25,
+Band 26,
+Band 27,
+Band 28,
+Band 29,
+Band 30,
+Band 31,
+Band 32,
+Band 33,
+Band 34,
+Band 35,
+Band 36,
+Band 37,
+Band 38,
+Band 39,
+Band 40,
+Band 41,
+Band 42,
+Band 43,
+Band 44,
+Band 45,
+Band 46,
+Band 47,
+Band 48}

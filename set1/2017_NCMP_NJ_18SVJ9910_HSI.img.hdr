@@ -1,0 +1,38 @@
+ENVI
+description = {
+X:\2017_NCMP_EC\products\2017_NCMP_NJ\2017_NCMP_NJ_HSI\Blk_601\2017_NCMP_EC_18SVJ9910_HSI.img}
+samples = 1000
+lines   = 1000
+bands   = 48
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bip
+byte order = 0
+map info = {UTM, 1, 1, 498999.999978342, 4310999.99990403, 1, 1, 18, North,North America 1983}
+coordinate system string = {PROJCS["NAD_1983_UTM_Zone_18N",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-75],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]}
+sensor type = CASI 1500
+wavelength_units = Nanometers
+default bands = {20, 13, 6}
+band names = {
+ Mosaic (Band 1), Mosaic (Band 2), Mosaic (Band 3), Mosaic (Band 4), 
+ Mosaic (Band 5), Mosaic (Band 6), Mosaic (Band 7), Mosaic (Band 8), 
+ Mosaic (Band 9), Mosaic (Band 10), Mosaic (Band 11), Mosaic (Band 12), 
+ Mosaic (Band 13), Mosaic (Band 14), Mosaic (Band 15), Mosaic (Band 16), 
+ Mosaic (Band 17), Mosaic (Band 18), Mosaic (Band 19), Mosaic (Band 20), 
+ Mosaic (Band 21), Mosaic (Band 22), Mosaic (Band 23), Mosaic (Band 24), 
+ Mosaic (Band 25), Mosaic (Band 26), Mosaic (Band 27), Mosaic (Band 28), 
+ Mosaic (Band 29), Mosaic (Band 30), Mosaic (Band 31), Mosaic (Band 32), 
+ Mosaic (Band 33), Mosaic (Band 34), Mosaic (Band 35), Mosaic (Band 36), 
+ Mosaic (Band 37), Mosaic (Band 38), Mosaic (Band 39), Mosaic (Band 40), 
+ Mosaic (Band 41), Mosaic (Band 42), Mosaic (Band 43), Mosaic (Band 44), 
+ Mosaic (Band 45), Mosaic (Band 46), Mosaic (Band 47), Mosaic (Band 48)}
+wavelength = {
+  371.100006,  385.399994,  399.700012,  413.899994,  428.200012,  442.399994,
+  456.700012,  471.000000,  485.200012,  499.500000,  513.700012,  528.000000,
+  542.299988,  556.500000,  570.799988,  585.000000,  599.299988,  613.500000,
+  627.799988,  642.000000,  656.299988,  670.500000,  684.799988,  699.000000,
+  713.299988,  727.500000,  741.799988,  756.000000,  770.299988,  784.500000,
+  798.799988,  813.000000,  827.299988,  841.500000,  855.799988,  870.000000,
+  884.299988,  898.500000,  912.700012,  927.000000,  941.299988,  955.500000,
+  969.799988,  984.000000,  998.299988, 1012.000000, 1026.000000, 1041.000000}
